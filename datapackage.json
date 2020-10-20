@@ -1,0 +1,148 @@
+{
+  "profile": "data-package",
+  "resources": [
+    {
+      "name": "miseqrun_623_phyloseq_data",
+      "path": "mock_comm.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "ASV",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Sample",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Abundance",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "DNA_conc",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Kingdom",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Phylum",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Class",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Order",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Family",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Genus",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Species",
+            "type": "string",
+            "format": "default"
+          }
+        ]
+      }
+    },
+    {
+      "name": "miseqrun_623_mapping_file",
+      "path": "Mapping_file.xlsx",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "sample_id",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "golay_index_barcode",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "primer_name",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "full_primer_sequence",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "sample_name",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "is.neg",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "sample_origin",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "anti_coagulant",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "subject_id",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "extraction_batch",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "dna_extraction_kit",
+            "type": "string",
+            "format": "default"
+          }
+        ]
+      }
+    }
+  ],
+  "keywords": [
+    "bacteria",
+    "16S rRNA",
+    "DNA",
+    "microbiome"
+  ],
+  "name": "miseqrun-623-datapackage",
+  "title": "MiSeqRun_623_datapackage",
+  "description": "250x2 bp MiSeq Run 623. DNA sequencing of the 16S rRNA gene from a mock community  dilution series.",
+  "contributors": [
+    {
+      "title": "Kate Bowie",
+      "role": "author"
+    }
+  ]
+}
