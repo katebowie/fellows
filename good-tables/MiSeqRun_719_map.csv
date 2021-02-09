@@ -1,0 +1,96 @@
+samle_name,sample_description,sample_ID,barcode,is.neg,DNA_Conc,sample_origin,extraction_batch,dna_extraction_kit
+s001,blank1,ext_bl1,AACGATCATAGA,TRUE,1.58,extraction_blank,1,QiaAMP DNA minikit
+s002,MC_KB_03_stock,MC0,TAGGACGGGAGT,FALSE,11.89,mock_community,1,QiaAMP DNA minikit
+s003,MC_KB_03_001,MC1,AAGTCTTATCTC,FALSE,6.18,mock_community,1,QiaAMP DNA minikit
+s004,MC_KB_03_002,MC2,TTGCACCGTCGA,FALSE,7.73,mock_community,1,QiaAMP DNA minikit
+s005,MC_KB_03_003,MC3,CTCCGAACAACA,FALSE,14.9,mock_community,1,QiaAMP DNA minikit
+s006,MC_KB_03_004,MC4,TCTGGCTACGAC,FALSE,13.57,mock_community,1,QiaAMP DNA minikit
+s007,MC_KB_03_005,MC5,AGTAGTTTCCTT,FALSE,7.98,mock_community,1,QiaAMP DNA minikit
+s008,MC_KB_03_006,MC6,CAGATCCCAACC,FALSE,6.49,mock_community,1,QiaAMP DNA minikit
+s009,MC_KB_03_007,MC7,GATAGCACTCGT,FALSE,7.81,mock_community,1,QiaAMP DNA minikit
+s010,MC_KB_03_008,MC8,GTAATTGTAATT,FALSE,3.37,mock_community,1,QiaAMP DNA minikit
+s011,MC_KB_03_009,MC9,TGCTACAGACGT,FALSE,1.43,mock_community,1,QiaAMP DNA minikit
+s012,MC_KB_03_010,MC10,AGGTGAGTTCTA,FALSE,1.74,mock_community,1,QiaAMP DNA minikit
+s013,HP9_EDTA,E9A,GTTTGGCCACAC,FALSE,3.77,blood,2,QiaAMP DNA minikit
+s014,HP9_heparin,H9A,GTCCTACACAGC,FALSE,4.14,blood,2,QiaAMP DNA minikit
+s015,HP13_EDTA,E13A,ATTTACAATTGA,FALSE,4.05,blood,2,QiaAMP DNA minikit
+s016,HP13_heparin,H13A,CCACTGCCCACC,FALSE,4.06,blood,2,QiaAMP DNA minikit
+s017,HP17_EDTA,E17A,ATAGTTAGGGCT,FALSE,9.16,blood,2,QiaAMP DNA minikit
+s018,HP17_heparin,H17A,GACCCGTTTCGC,FALSE,10.95,blood,2,QiaAMP DNA minikit
+s019,HP9_heparin,H9B,TGACTGCGTTAG,FALSE,2.73,blood,2,QiaAMP DNA minikit
+s020,HP9_EDTA,E9B,ACGTTAATATTC,FALSE,6.48,blood,2,QiaAMP DNA minikit
+s021,HP13_EDTA,E13B,TCTAACGAGTGC,FALSE,4.3,blood,2,QiaAMP DNA minikit
+s022,extraction_blank2,ext_bl2,TCATCTTGATTG,TRUE,4.63,extraction_blank,2,QiaAMP DNA minikit
+s023,HP13_heparin,H13B,GATCCCACGTAC,FALSE,4.31,blood,3,QiaAMP DNA minikit
+s024,HP17_EDTA,E17B,CCGCCAGCTTTG,FALSE,3.55,blood,3,QiaAMP DNA minikit
+s025,HP17_heparin,H17B,TATATAGTATCC,FALSE,1.56,blood,3,QiaAMP DNA minikit
+s026,HP9_heparin,H9C,ACTGTTTACTGT,FALSE,1.01,blood,3,QiaAMP DNA minikit
+s027,HP9_EDTA,E9C,GTCACGGACATT,FALSE,2.08,blood,3,QiaAMP DNA minikit
+s028,HP13_EDTA,E13C,GAATATACCTGG,FALSE,3.35,blood,3,QiaAMP DNA minikit
+s029,HP13_heparin,H13C,GAATCTGACAAC,FALSE,8.09,blood,3,QiaAMP DNA minikit
+s030,HP17_EDTA,E17C,ATTGCCTTGATT,FALSE,2.55,blood,3,QiaAMP DNA minikit
+s031,HP17_heparin,H17C,GAGCCCAAAGAG,FALSE,2.23,blood,3,QiaAMP DNA minikit
+s032,extraction_blank3,ext_bl3,GTCAGTATGGCT,TRUE,0.01,extraction_blank,3,QiaAMP DNA minikit
+s033,1007_Day0_0001,7A_D0,CCATGTGGCTCC,FALSE,0.38,blood,4,QiaAMP DNA minikit
+s034,1007_Day0_0001,7B_D0,CGTTCCTTGTTA,FALSE,0.37,blood,4,QiaAMP DNA minikit
+s035,1007_Day0_0001,7C_D0,CGCTAGGATGTT,FALSE,0.51,blood,4,QiaAMP DNA minikit
+s036,1006_Day0_E2,6A_D0,AGCGGTAGCGGT,FALSE,0.3,blood,4,QiaAMP DNA minikit
+s037,1006_Day0_E2,6B_D0,CATAAGGGAGGC,FALSE,0.39,blood,4,QiaAMP DNA minikit
+s038,1006_Day0_E2,6C_D0,CAGGCCACTCTC,FALSE,0.91,blood,4,QiaAMP DNA minikit
+s039,1008_Day21,8A_D21,ACAGTTGTACGC,FALSE,0.68,blood,4,QiaAMP DNA minikit
+s040,1008_Day21,8B_D21,ACCAGAAATGTC,FALSE,1.03,blood,4,QiaAMP DNA minikit
+s041,1008_Day21,8C_D21,CTCATCATGTTC,FALSE,1.43,blood,4,QiaAMP DNA minikit
+s042,extraction_blank4,ext_bl4,TTAGGATTCTAT,TRUE,2.43,extraction_blank,4,QiaAMP DNA minikit
+s043,4052_010,4052_010,TCTTACCCATAA,FALSE,12.52,stool,5,Powersoil pro
+s044,4052_009,4052_009,CAGCCCTACCCA,FALSE,8.42,stool,5,Powersoil pro
+s045,4052_012,4052_012,TCGTTGGGACTA,FALSE,12.19,stool,5,Powersoil pro
+s046,extraction_blank5,ext_bl5,AATCCGGTCACC,TRUE,1.12,extraction_blank,5,Powersoil pro
+s047,1003_Day0_E1,3A_D0,CAACGAACCATC,FALSE,1.66,blood,6,QiaAMP DNA minikit
+s048,1003_Day0_E1,3B_D0,ACACGTTTGGGT,FALSE,0.96,blood,6,QiaAMP DNA minikit
+s049,1003_Day0_E1,3C_D0,CGTCGCAGCCTT,FALSE,0.48,blood,6,QiaAMP DNA minikit
+s050,1005_Day0_E1,5A_D0,CTACTTACATCC,FALSE,1.12,blood,6,QiaAMP DNA minikit
+s051,1005_Day0_E1,5B_D0,CGCACGTACCTC,FALSE,1.7,blood,6,QiaAMP DNA minikit
+s052,1005_Day0_E1,5C_D0,GTCCTCGCGACT,FALSE,1.79,blood,6,QiaAMP DNA minikit
+s053,1005_Day14_E2,5A_D14,GTGCAACCAATC,FALSE,1.65,blood,6,QiaAMP DNA minikit
+s054,1005_Day14_E2,5B_D14,ACCCAAGCGTTA,FALSE,0.38,blood,6,QiaAMP DNA minikit
+s055,1005_Day14_E2,5C_D14,ACTGGCAAACCT,FALSE,0.68,blood,6,QiaAMP DNA minikit
+s056,extraction_blank6,ext_bl6,AACACCATCGAC,TRUE,3.94,extraction_blank,6,QiaAMP DNA minikit
+s057,CMT_233_v3,kb_233_v3,TTATCCAGTCCT,FALSE,0.87,urine,7,QiaAMP DNA minikit
+s058,CMT_228_v2,kb_228_v2,GTTTATCTTAAG,FALSE,4.74,urine,7,QiaAMP DNA minikit
+s059,CMT_116_v2,kb_116_v2,GTTCGCCGCATC,FALSE,0.74,urine,7,QiaAMP DNA minikit
+s060,CMT_125_v3,kb_125_v3,AGACTATTTCAT,FALSE,0.56,urine,7,QiaAMP DNA minikit
+s061,CMT_141_v3,kb_141_v3,AGCGATTCCTCG,FALSE,4.14,urine,7,QiaAMP DNA minikit
+s062,CMT_208_MRI,kb_208_MRI,ACCACCGTAACC,FALSE,1.15,urine,7,QiaAMP DNA minikit
+s063,CMT_108_v1,kb_108_v1,AGGAAGTAACTT,FALSE,0.81,urine,7,QiaAMP DNA minikit
+s064,CMT_144_v3,kb_144_v3,CGTTCGCTAGCC,FALSE,2.78,urine,7,QiaAMP DNA minikit
+s065,CMT_128_MRI,kb_128_MRI,CTCACCTAGGAA,FALSE,0.53,urine,7,QiaAMP DNA minikit
+s066,CMT_108_v2,kb_108_v2,AGATGCAATGAT,FALSE,0.26,urine,7,QiaAMP DNA minikit
+s067,CMT_216_MRI,kb_216_MRI,GCATTCGGCGTT,FALSE,1.6,urine,7,QiaAMP DNA minikit
+s068,extraction_blank7,ext_bl7,TCTACATACATA,TRUE,0.9,extraction_blank,7,QiaAMP DNA minikit
+s069,CMT_116_v2,116_v2,GAGTCTTGGTAA,FALSE,2.18,urine,NA,Dneasy blood tissue kit
+s070,CMT_108_v1,108_v1,CAGTCTAGTACG,FALSE,4.27,urine,NA,Dneasy blood tissue kit
+s071,CMT_108_v2,108_v2,GTTCGAGTGAAT,FALSE,4.19,urine,NA,Dneasy blood tissue kit
+s072,CMT_141_v3,141_v3,AGTCCGAGTTGT,FALSE,4.64,urine,NA,Dneasy blood tissue kit
+s073,CMT_144_v3,144_v3,CGTGAGGACCAG,FALSE,0.5,urine,NA,Dneasy blood tissue kit
+s074,CMT_125_v3,125_v3,CGGTTGGCGGGT,FALSE,0.59,urine,NA,Dneasy blood tissue kit
+s075,CMT_128_MRI,128_MRI,CGATTCCTTAAT,FALSE,0.48,urine,NA,Dneasy blood tissue kit
+s076,CMT_208_MRI,208_MRI,TGCCTGCTCGAC,FALSE,1.74,urine,NA,Dneasy blood tissue kit
+s077,CMT_216_MRI,216_MRI,TACTGTACTGTT,FALSE,3.36,urine,NA,Dneasy blood tissue kit
+s078,CMT_228_v2,228_v2,TCTCGCACTGGA,FALSE,1.43,urine,NA,Dneasy blood tissue kit
+s079,CMT_233_v3,233_v3,ACCAGTGACTCA,FALSE,0.78,urine,NA,Dneasy blood tissue kit
+s080,ctrl_batch2,ms401_batch2,TGGCGCACGGAC,TRUE,6.28,extraction_blank,NA,Dneasy blood tissue kit
+s081,ctrl_batch8,ms401_batch8,CATTTACATCAC,TRUE,0.82,extraction_blank,NA,Dneasy blood tissue kit
+s082,ctrl_batch13,ms401_batch13,GTGGGACTGCGC,TRUE,1.52,extraction_blank,NA,Dneasy blood tissue kit
+s083,CMT_128_MRI,ms624_128_MRI,CGGCCTAAGTTC,FALSE,1.17,urine,NA,Dneasy blood tissue kit
+s084,CMT_228_v2,ms624_228_v2,GCTGAGCCTTTG,FALSE,1.42,urine,NA,Dneasy blood tissue kit
+s085,CMT_208_MRI,ms624_208_MRI,AGAGACGCGTAG,FALSE,0.82,urine,NA,Dneasy blood tissue kit
+s086,ctrl_batch1,ms624_batch1,CCACCGGGCCGA,TRUE,0.9,extraction_blank,NA,Dneasy blood tissue kit
+s087,ctrl_batch3,ms624_batch3,CTAGAGCTCCCA,TRUE,3.59,extraction_blank,NA,Dneasy blood tissue kit
+s088,CMT_141_v3,ms638_141_v3,GGTCTTAGCACC,FALSE,5.43,urine,NA,Dneasy blood tissue kit
+s089,CMT_125_v3,ms638_125_v3,GCCTACTCTCGG,FALSE,5.59,urine,NA,Dneasy blood tissue kit
+s090,CMT_144_v3,ms638_144_v3,ACTGCCCGATAC,FALSE,2.02,urine,NA,Dneasy blood tissue kit
+s091,CMT_233_v3,ms638_233_v3,TTCTTAACGCCT,FALSE,0.9,urine,NA,Dneasy blood tissue kit
+s092,ctrl_batch5,ms638_batch5,CTCCCGAGCTCC,TRUE,2.2,extraction_blank,NA,Dneasy blood tissue kit
+s093,ctrl_batch7,ms638_batch7,ACACACCCTGAC,TRUE,0.8,extraction_blank,NA,Dneasy blood tissue kit
+s094,ctrl_batch9,ms638_batch9,TATAGGCTCCGC,TRUE,0.84,extraction_blank,NA,Dneasy blood tissue kit
+s095,ctrl_batch10,ms638_batch10,ATAATTGCCGAG,TRUE,1.01,extraction_blank,NA,Dneasy blood tissue kit
